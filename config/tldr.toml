@@ -1,0 +1,38 @@
+[style.description]
+underline = false
+bold = false
+italic = false
+
+[style.command_name]
+foreground = { rgb = { r = 0, g = 195, b = 255 } }
+underline = false
+bold = false
+italic = false
+
+[style.example_text]
+foreground = { rgb = { r = 0, g = 255, b = 0 } }
+underline = false
+bold = false
+italic = false
+
+[style.example_code]
+foreground = { rgb = { r = 0, g = 255, b = 255 } }
+underline = false
+bold = false
+italic = false
+
+[style.example_variable]
+foreground = { rgb = { r = 50, g = 255, b = 255 } }
+underline = true
+bold = false
+italic = false
+
+[display]
+compact = true
+use_pager = false
+
+[updates]
+auto_update = false
+auto_update_interval_hours = 720
+
+[directories]
