@@ -1,0 +1,26 @@
+### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-bcdfgvbcfghvcdfgrvbdfghrtv.vercel.app/api/top-langs/?username=chise0713&layout=compact&theme=dracula&locale=en" width="250"/></a>  
+⬆️ only knows how to write shell  
+<!--⬅️ lost their telegram account seven times  -->
+💻 Use bash ([config](config/.bashrc)) · ⌨️ Use archlinux  
+📫 Wannan reachout? [![Discussions](https://img.shields.io/badge/Discussions-FFA500?style=flat-square&logo=github&logoColor=white)](https://github.com/chise0713/chise0713/discussions)  [![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)](https://matrix.to/#/@chise0713:matrix.org)  
+
+<!--
+
+### Hi there 👋
+
+
+
+**chise0713/chise0713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
